@@ -1,1 +1,2 @@
 # Smart-City
+This is the repository for the Smart City Resource Allocation project, the final project for the class EECE 2560, Fundamentals of Engineering Algorithms. This repo consists of code and data used to allocate resources to various sectors of the smart city. At this moment, the code consists of a C++ file with test code. Down the line, enviromental setup instructions, conifugration files, and more models, algorithms, and classes will be added.
