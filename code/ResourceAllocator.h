@@ -51,3 +51,4 @@ private:
 };
 
 #endif // RESOURCE_ALLOCATOR_H
+
