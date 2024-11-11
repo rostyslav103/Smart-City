@@ -1,0 +1,21 @@
+Type,District,Cost,Importance,Availability,PeakDemand_MW,AverageDemand_MW,WaterQuality(pH),GasPressure_kPa,GasUsage_MiliionCubicMeters,WaterUsage_MillionLiters
+Electricity,1,,0.4,20,30,20,,,,
+Electricity,2,,0.3,70,50,35,,,,
+Electricity,3,,0.5,200,400,220,,,,
+Electricity,4,,0.3,300,210,130,,,,
+Electricity,5,,0.6,190,350,200,,,,
+Water,1,,0.5,30,,,7.4,,,10
+Water,2,,0.5,40,,,8,,,80
+Water,3,,0.4,500,,,7.8,,,56
+Water,4,,0.3,200,,,6.8,,,89
+Water,5,,0.5,15,,,6.56,,,210
+Gas,1,,0.3,100000,,,,4,60000,
+Gas,2,,0.6,300000,,,,3,200000,
+Gas,3,,0.5,100000,,,,2,300000,
+Gas,4,,0.5,200000,,,,5,450000,
+Gas,5,,0.4,1500000,,,,11,1100000,
+Waste management,1,,0.3,,,,,,,
+Waste management,2,,0.5,,,,,,,
+Waste management,3,,0.3,,,,,,,
+Waste management,4,,0.6,,,,,,,
+Waste management,5,,0.5,,,,,,,
